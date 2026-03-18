@@ -1,1 +1,1 @@
-Commit on 2025-04-09T18:14:33Z: Fix synchronization bug in federated learning protocol
+Commit on 2025-11-06T19:18:18Z: Update README with 2025 project milestones
