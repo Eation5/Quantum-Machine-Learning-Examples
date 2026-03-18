@@ -1,1 +1,1 @@
-Commit on 2024-12-20T20:25:41Z: Add documentation for API endpoints
+Commit on 2024-11-13T11:52:32Z: Update README with project goals
